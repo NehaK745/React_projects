@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+ 
+}
+
+input {
+  margin: 0 0.5rem 0 0.5rem;
+  width:100%;
+  border: none;
+  outline: none;
+  background: #3eb365;
+  color:white;
+  font-size: 1.8rem;
+  border-radius: 0.5rem;
+  width:400px;
+  box-shadow: 0.2rem 0.2rem 0.1rem #3eb365;
+}
+button {
+  background-color: white;
+  color: rgb(115, 127, 179);
+  font-size: 1.8rem;
+  border: 2px solid #4CAF50
+}
